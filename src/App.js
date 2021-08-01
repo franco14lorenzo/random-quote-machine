@@ -43,7 +43,7 @@ function App() {
         
         <div id="actions">
         
-          <a className="button" title="Tweet this quote!" style={{backgroundColor: accentColor}} href={encodeURI(`http://www.twitter.com/intent/tweet?via=franco14lorenzo&hashtags=quotes&text=" ${quote} " - ${author}`)} target="_blank" id="tweet-quote" rel="noreferrer">
+          <a className="button" title="Tweet this quote!" style={{backgroundColor: accentColor}} href={encodeURI(`http://www.twitter.com/intent/tweet?url=https://franco14lorenzo.github.io/random-quote-machine/&hashtags=quotes&text=" ${quote} " - ${author}`)} target="_blank" id="tweet-quote" rel="noreferrer">
             <i class="fab fa-twitter"></i>
           </a>
         
@@ -57,7 +57,7 @@ function App() {
 
         </div>
       </div>
-      <div class="footer">by <a href="https://github.com/franco14lorenzo" target="_blank" rel="noreferrer">Franco Lorenzo</a></div>
+      <div class="footer">by <a href="https://github.com/franco14lorenzo" target="_blank" rel="noreferrer"><u>Franco Lorenzo</u></a></div>
     </div>
   );
 }
