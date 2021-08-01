@@ -1,13 +1,13 @@
 export const QUOTES = [
-/*    {
+   {
        "quote": "Todas putas.",
        "author":" Anonimo"
     },
     {
        "quote": "Sha foe.",
        "author":"Tania Garay"
-    }, */
-    {
+    },
+    /* {
       quote: "Life isn’t about getting and having, it’s about giving and being.",
       author : "Kevin Kruse"
     }, 
@@ -170,7 +170,7 @@ export const QUOTES = [
        "quote":"Either write something worth reading or do something worth writing.",
        "author":"Benjamin Franklin"
     },
-
+ */
 
 ]
 
