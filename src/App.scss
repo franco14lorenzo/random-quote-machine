@@ -1,0 +1,69 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 100vh;
+  font-family: "Raleway", sans-serif;
+  transition: background-color linear 1s;
+
+  #quote-box {
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 30px;
+    max-width: 850px;
+    font-size: calc(10px + 2vmin);
+    transition: color 1s ease-out 1s;
+
+    #text {
+      font-weight: 500;
+    }
+
+    .Author {
+      font-weight: 300;
+      text-align: right;
+    }
+
+    #actions {
+      display: flex;
+      justify-content: space-between;
+      button {
+        border: none;
+        cursor: pointer;
+      }
+      a {
+        text-decoration: none;
+      }
+      .button {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+        color: #fff;
+        padding: 8px;
+        border-radius: 50%;
+        font-size: 1em;
+        transition: background-color 1s ease-out 1s;
+      }
+      .button:hover {
+        opacity: 0.85;
+      }
+    }
+  }
+  .footer {
+    display: block;
+    margin: 15px auto 30px auto;
+    font-weight: 300;
+    color: #fff;
+    font-size: 0.8em;
+    a {
+      text-decoration: none;
+      color: #fff;
+    }
+    a:hover {
+      opacity: 0.85;
+    }
+  }
+}
