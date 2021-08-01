@@ -1,11 +1,11 @@
 export const QUOTES = [
    {
-       "quote": "Todas putas.",
-       "author":" Anonimo"
+      "quote": "Todas putas.",
+      "author":" Anonimo"
     },
     {
-       "quote": "Sha foe.",
-       "author":"Tania Garay"
+      "quote": "Sha foe.",
+      "author":"Tania Garay"
     },
     {
       quote: "Life isn’t about getting and having, it’s about giving and being.",
