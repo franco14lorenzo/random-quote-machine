@@ -8,102 +8,98 @@ export const QUOTES = [
       "author":"Tania Garay"
     },
     {
-      quote: "Life isn’t about getting and having, it’s about giving and being.",
+      quote: "La vida no se trata de obtener y tener, se trata de dar y ser.",
       author : "Kevin Kruse"
     }, 
     {
-      "quote": "Whatever the mind of man can conceive and believe, it can achieve.",
+      "quote": "Todo lo que la mente del hombre pueda concebir y creer, lo puede lograr.",
       "author": "Napoleon Hill"
     },
     {
-      "quote": "Strive not to be a success, but rather to be of value.",
+      "quote": "No te esfuerces por ser alguien exitoso, sino por ser alguien valioso.",
       "author": "Albert Einstein"
     },
     {
-      "quote": "You miss 100% of the shots you don’t take.",
+      "quote": "Fallas el 100% de los disparos que no efectuas.",
       "author": "Wayne Gretzky"
     },
     {
-      "quote": "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
+      "quote": "He fallado más de 9000 tiros en mi carrera. He perdido casi 300 juegos. 26 veces me han confiado para hacer el tiro ganador del juego y he fallado. He fallado una y otra y otra vez otra vez en mi vida. Y por eso lo logré.",
       "author": "Michael Jordan"
     },
     {
-      "quote": "Life is 10% what happens to me and 90% of how I react to it.",
+      "quote": "La vida es el 10% de lo que me pasa y el 90% de cómo reacciono.",
       "author": "Charles Swindoll"
     },
     {  
-        "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+        "quote": "Tu tiempo es limitado, así que no lo pierdas viviendo la vida de otra persona.",
         "author": "Steve Jobs"
     },
     {
-       "quote": "Winning isn’t everything, but wanting to win is.",
+       "quote": "Ganar no es todo, pero querer hacerlo sí.",
        "author": "Vince Lombardi"
     },
     {
-       "quote": "I am not a product of my circumstances. I am a product of my decisions.",
+       "quote": "No soy producto de mis circunstancias. Soy producto de mis decisiones.",
        "author": "Stephen Covey"
     },
     {
-       "quote": "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+       "quote": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo los hiciste sentir.",
        "author": "Maya Angelou"
     },
     {
-       "quote": "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-       "author": "Maya Angelou"
-    },
-    {
-       "quote": "Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it.",
+       "quote": "Todo lo que puedas hacer, o soñar que puedas, comienza. La audacia tiene genio, poder y magia.",
        "author": "Johann Wolfgang von Goethe"
     },
     {
-       "quote": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+       "quote": "Sólo hay una forma de evitar las críticas: no hacer nada, no decir nada y ser nada.",
        "author": "Aristotle"
     },
     {
-       "quote": "The only person you are destined to become is the person you decide to be.",
+       "quote": "La única persona en la que estás destinado a convertirte es la persona que decides ser.",
        "author": "Ralph Waldo Emerson"
     },
     {
-       "quote": "Go confidently in the direction of your dreams.  Live the life you have imagined.",
+       "quote": "Ve con confianza en la dirección de tus sueños. Vive la vida que has imaginado.",
        "author": "Henry David Thoreau"},
     {
-       "quote": "Certain things catch your eye, but pursue only those that capture the heart.",
+       "quote": "Ciertas cosas te llaman la atención, pero busca solo aquellas que capturan el corazón.",
        "author": " Ancient Indian Proverb"
     },
     {
-       "quote": "Believe you can and you’re halfway there.",
+       "quote": "Cree que puedes y estás a mitad de camino.",
        "author": "Theodore Roosevelt"
     },
     {
-       "quote": "Everything you’ve ever wanted is on the other side of fear.",
+       "quote": "Todo lo que siempre has querido está al otro lado del miedo.",
        "author": "George Addair"
     },
     {
-       "quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+       "quote": "Podemos perdonar fácilmente a un niño que le teme a la oscuridad; la verdadera tragedia de la vida es cuando los hombres le tienen miedo a la luz.",
        "author": "Plato"
     },
     {
-       "quote": "Teach thy tongue to say, “I do not know,” and thous shalt progress.",
+       "quote": "Enseñale a tu lengua a decir, “no sé,” y progresarás.",
        "author": "Maimonides"
     },
     {
-       "quote": "Start where you are. Use what you have.  Do what you can.",
+       "quote": "Empiece donde está. Utilice lo que tenga. Haga lo que pueda.",
        "author": "Arthur Ashe"
     },
     {
-       "quote": "Fall seven times and stand up eight.",
+       "quote": "Cae siete veces y levántate ocho.",
        "author": "Japanese Proverb"
     },
     {
-       "quote": "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.",
+       "quote": "Cuando una puerta de la felicidad se cierra, otra se abre, pero muchas veces miramos tanto tiempo la puerta cerrada que no vemos la que se nos ha abierto",
        "author": "Helen Keller"
     },
     {
-       "quote": "When I let go of what I am, I become what I might be.",
+       "quote": "Cuando dejo ir lo que soy, me convierto en lo que podría ser.",
        "author": "Lao Tzu"
     },
     {
-       "quote": "Happiness is not something readymade.  It comes from your own actions.",
+       "quote": "La felicidad no es algo confeccionado. Viene de tus propias acciones.",
        "author": "Dalai Lama"
     },
     {
@@ -115,59 +111,59 @@ export const QUOTES = [
        "author": "Roberto Musso"
     },
     {
-       "quote": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+       "quote": "Los desafíos son los que hacen que la vida sea interesante y superarlos es lo que hace que la vida tenga sentido.",
        "author": "Joshua J. Marine"
     },
     {
-       "quote": "I didn’t fail the test. I just found 100 ways to do it wrong.",
+       "quote": "No fallé la prueba. Solo encontré 100 formas de hacerlo mal.",
        "author": "Benjamin Franklin"
     },
     {
-       "quote": "A person who never made a mistake never tried anything new.",
+       "quote": "Una persona que nunca cometió un error, nunca intentó nada nuevo.",
        "author": "Albert Einstein"
     },
     {
-       "quote": "The person who says it cannot be done should not interrupt the person who is doing it.",
+       "quote": "La persona que dice que no se puede hacer, no debe interrumpir a la persona que lo está haciendo.",
        "author": "Chinese Proverb"
     },
     {
-       "quote": "It is never too late to be what you might have been.",
+       "quote": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
        "author": "George Eliot"
     },
     {
-       "quote": "I would rather die of passion than of boredom.",
+       "quote": "Prefiero morir de pasión que de aburrimiento.",
        "author": "Vincent van Gogh"
     },
     {
-       "quote": "The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at.",
+       "quote": "Las batallas que cuentan no son las de las medallas de oro. Las luchas dentro de ti, las batallas invisibles dentro de todos nosotros, esas sí.",
        "author": "Jesse Owens"
     },
     {
-       "quote": "I have learned over the years that when one’s mind is made up, this diminishes fear.",
+       "quote": "He aprendido a lo largo de los años que cuando se toma una decisión, disminuye el miedo.",
        "author": "Rosa Parks"
     },
     {
-       "quote": "It does not matter how slowly you go as long as you do not stop.",
+       "quote": "No importa qué tan lento vayas siempre que no te detengas.",
        "author": "Confucius"
     },
     {
-       "quote": "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
+       "quote": "Si miras lo que tienes en la vida, siempre tendrás más. Si miras lo que no tienes en la vida, nunca tendrás suficiente.",
        "author": "Oprah Winfrey"
     },
     {
-       "quote": "Do what you can, where you are, with what you have.",
+       "quote": "Haz lo que puedas, donde estés, con lo que tengas.",
        "author": "Teddy Roosevelt"
     },
     {
-       "quote": "Dreaming, after all, is a form of planning.",
+       "quote": "Soñar, después de todo, es una forma de planificación.",
        "author": "Gloria Steinem"
     },
     {
-       "quote":"You may be disappointed if you fail, but you are doomed if you don’t try.",
+       "quote":"Puede que te decepcione si fallas, pero estás condenado si no lo intentas.",
        "author":"Beverly Sills"
     },
     {
-       "quote":"Either write something worth reading or do something worth writing.",
+       "quote":"Escribe algo que valga la pena leer o haz algo que valga la pena escribir.",
        "author":"Benjamin Franklin"
     },
 
